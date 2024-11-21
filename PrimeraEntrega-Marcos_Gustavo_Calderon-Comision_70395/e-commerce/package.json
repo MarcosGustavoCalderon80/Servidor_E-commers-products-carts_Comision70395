@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "e-commerce",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch ./src/app.js"
+  },
+  "keywords": [],
+  "author": "Marcos Calderon",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.21.1"
+  },
+  "dependencies": {
+    "uuid": "^11.0.3"
+  }
+}
