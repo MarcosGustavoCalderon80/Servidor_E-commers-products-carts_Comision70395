@@ -1,5 +1,6 @@
 # Servidor_E-commers-products-carts_Comision70395
-Se desarrolla un servidor que contenga los endpoints y servicios necesarios para gestionar los productos y carritos de compra en el e-commerce
+Se desarrolla un servidor que contenga los endpoints y servicios necesarios para gestionar los productos y carritos de compra en el e-commerce.
+
 CONSIGNA DEL PROYECTO:
 
 Desarrollar el servidor basado en Node.JS y express, que escuche en el puerto 8080 y disponga de dos grupos de rutas: /products y /carts. Dichos endpoints estarán implementados con el router de express, con las siguientes especificaciones:
